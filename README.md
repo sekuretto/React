@@ -16,7 +16,7 @@ https://github.com/bradtraversy/react-crash-2021
   
 Practice project (9.3.2021):  
 - [Task Tracker](../master/react-task-tracker)  (React basics)  
-[!Task Tracker](https://github.com/sekuretto/React/blob/main/react-task-tracker/react-task-tracker.png)  
+[!Task Tracker](react-task-tracker.png)  
   
 - - - - -  
 
