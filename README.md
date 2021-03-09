@@ -9,7 +9,7 @@ Studying React and its basic principles
 https://www.youtube.com/watch?v=w7ejDZ8SWv8  
 https://github.com/bradtraversy/react-crash-2021  
 
-- using Node.js to create React app  
+- using Node.js to create and build React app  
 - using React Developer Tools for Chrome  
 - learning React (17.0.1) by building task tracker app and looking at components, props, state, hooks, working with API and more  
 - using [JSON Server](https://github.com/typicode/json-server) to build own REST API for task tracker app  
